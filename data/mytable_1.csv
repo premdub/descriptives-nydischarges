@@ -1,0 +1,30 @@
+,,Grouped by type_of_admission,Grouped by type_of_admission,Grouped by type_of_admission,Grouped by type_of_admission,Grouped by type_of_admission,Grouped by type_of_admission
+,,Missing,Overall,Elective,Emergency,Newborn,Urgent
+n,,,1000,251,439,200,110
+"age_group, n (%)",0 to 17,0,223 (22.3),8 (3.2),10 (2.3),200 (100.0),5 (4.5)
+"age_group, n (%)",18 to 29,,169 (16.9),115 (45.8),21 (4.8),,33 (30.0)
+"age_group, n (%)",30 to 49,,118 (11.8),69 (27.5),30 (6.8),,19 (17.3)
+"age_group, n (%)",50 to 69,,208 (20.8),34 (13.5),147 (33.5),,27 (24.5)
+"age_group, n (%)",70 or Older,,282 (28.2),25 (10.0),231 (52.6),,26 (23.6)
+"gender, n (%)",F,0,621 (62.1),221 (88.0),230 (52.4),93 (46.5),77 (70.0)
+"gender, n (%)",M,,379 (37.9),30 (12.0),209 (47.6),107 (53.5),33 (30.0)
+"Mortality, n (%)",Extreme,0,33 (3.3),3 (1.2),29 (6.6),,1 (0.9)
+"Mortality, n (%)",Major,,154 (15.4),8 (3.2),136 (31.0),,10 (9.1)
+"Mortality, n (%)",Minor,,623 (62.3),220 (87.6),124 (28.2),196 (98.0),83 (75.5)
+"Mortality, n (%)",Moderate,,190 (19.0),20 (8.0),150 (34.2),4 (2.0),16 (14.5)
+"emergency_department_indicator, n (%)",N,0,527 (52.7),238 (94.8),,200 (100.0),89 (80.9)
+"emergency_department_indicator, n (%)",Y,,473 (47.3),13 (5.2),439 (100.0),,21 (19.1)
+"patient_disposition, n (%)",Expired,0,27 (2.7),1 (0.4),26 (5.9),,
+"patient_disposition, n (%)",Home or Self Care,,699 (69.9),218 (86.9),207 (47.2),190 (95.0),84 (76.4)
+"patient_disposition, n (%)",Home w/ Home Health Services,,73 (7.3),7 (2.8),58 (13.2),,8 (7.3)
+"patient_disposition, n (%)",Hosp Basd Medicare Approved Swing Bed,,18 (1.8),6 (2.4),8 (1.8),,4 (3.6)
+"patient_disposition, n (%)",Short-term Hospital,,52 (5.2),6 (2.4),31 (7.1),10 (5.0),5 (4.5)
+"patient_disposition, n (%)",Skilled Nursing Home,,105 (10.5),13 (5.2),87 (19.8),,5 (4.5)
+"patient_disposition, n (%)",Cancer Center or Children's Hospital,,1 (0.1),,1 (0.2),,
+"patient_disposition, n (%)",Facility w/ Custodial/Supportive Care,,12 (1.2),,9 (2.1),,3 (2.7)
+"patient_disposition, n (%)",Federal Health Care Facility,,1 (0.1),,1 (0.2),,
+"patient_disposition, n (%)",Hospice - Home,,4 (0.4),,4 (0.9),,
+"patient_disposition, n (%)",Inpatient Rehabilitation Facility,,1 (0.1),,1 (0.2),,
+"patient_disposition, n (%)",Left Against Medical Advice,,4 (0.4),,3 (0.7),,1 (0.9)
+"patient_disposition, n (%)",Psychiatric Hospital or Unit of Hosp,,3 (0.3),,3 (0.7),,
+"health_service_area, n (%)",Western NY,8,992 (100.0),248 (100.0),436 (100.0),198 (100.0),110 (100.0)
